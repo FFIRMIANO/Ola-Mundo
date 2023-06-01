@@ -1,5 +1,5 @@
 # Olá, Mundo!
- primeiro repositorio do **curso git ** e githurb, disponivel *grattuitamente*
+ primeiro repositorio do **curso git** e githurb, disponivel *grattuitamente*
 
 repositorio criado durante uma aula ao**vivo**
 <<<<<<< Updated upstream
